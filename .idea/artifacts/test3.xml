@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="test3">
+    <output-path>$PROJECT_DIR$/../../../minecraft_server/server2/plugins</output-path>
+    <root id="archive" name="test3.jar">
+      <element id="module-output" name="test3" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../apis/neuroph-2.98/Framework/neuroph-core-2.98.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../apis/neuroph-2.98/Framework/libs/ajt-2.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../apis/neuroph-2.98/Framework/libs/android-1.5_r4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../apis/neuroph-2.98/Framework/libs/logback-classic-1.0.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../apis/neuroph-2.98/Framework/libs/logback-core-1.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../apis/neuroph-2.98/Framework/libs/slf4j-api-1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../apis/neuroph-2.98/Framework/libs/slf4j-nop-1.7.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../apis/neuroph-2.98/Framework/libs/visrec-api-1.0.0-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../apis/neuroph-2.98/Framework/libs/visrec-api-1.0.0-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../apis/neuroph-2.98/Framework/libs/visrec-api-1.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+name: FacharbeitTest3
+version: 1.0
+author: Xge
+main: de.xge.facharbeit.test3.Main
+api-version: 1.13
